@@ -8,5 +8,7 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    return "[x1, x2 ,x3]"
-print(main("ad", "ht", "ty"))
+   
+    return "["+str(x1)+","+str(x2)+","+x3+"]"
+print(main(3,5,6))
+
