@@ -7,5 +7,4 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return '"'+last, first+'"'
-print(main("rtg","4466fdfhdf"))
+    return '"'+ last,+"" + first+'"'
