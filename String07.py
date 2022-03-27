@@ -1,6 +1,3 @@
-from re import A
-
-
 def main():
     """
     Return a string whose length is zero.
