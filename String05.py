@@ -11,6 +11,4 @@ def main(s1,s2):
     s2=" Nosirov"
     s=s1+s2
     return s  
-print(main("s1","s2"))
-
 
