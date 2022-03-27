@@ -8,6 +8,6 @@ def main(x,y):
         str: return answer.
     """
     
-    return "(x+y)*2=", {(x+y)*2}
+    return "(x+y)*2="+str((x+y)*2)
 
 print(main(3,5))
