@@ -1,8 +1,3 @@
-from re import A
-
-from pyrsistent import b
-
-
 def main(s1,s2):
     """
     s1 and s2 strings are given. return the result by adding a space (" ") between them.
@@ -13,4 +8,6 @@ def main(s1,s2):
         str: return answer.
     """
     
-    return s1+ s2
+    return "s1"+"s2"
+
+
