@@ -1,3 +1,6 @@
+from re import A
+
+
 def main():
     """
     Return a string whose length is zero.
@@ -6,4 +9,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a=""
+    return len(a)   
+print(main())      

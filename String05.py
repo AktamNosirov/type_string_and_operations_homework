@@ -9,4 +9,4 @@ def main(s1,s2):
     """
     s=s1+" " +s2
     return s
-print(main("asd","asfasd"))
+print(main("Aktam","Nosirov"))
