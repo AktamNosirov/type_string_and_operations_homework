@@ -10,5 +10,4 @@ def main(s1,s2):
     s1="Aktam"
     s2=" Nosirov"
     s=s1+s2
-    return s  
-
+    return s
