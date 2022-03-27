@@ -6,5 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    a="     *"
+    a="\n\n\n\n*"
     return a 
