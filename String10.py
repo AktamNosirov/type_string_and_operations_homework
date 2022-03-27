@@ -7,4 +7,7 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return 
+    
+    return "(x+y)*2=", {(x+y)*2}
+
+print(main(3,5))
